@@ -13,6 +13,8 @@ dependencies:
     sdk: flutter
 
   english_words: ^4.0.0
+  math_expressions: ^2.4.0
+  flutter_parse: ^1.0.1
   provider: ^6.0.5
 
 dev_dependencies:
